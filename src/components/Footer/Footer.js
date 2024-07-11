@@ -6,13 +6,11 @@ function Footer() {
   return (
     <footer className={styles.wrapper}>
       <p>
-        This project is from{' '}
-        <a target="_blank" rel="noopener noreferrer" href="https://joyofreact.com">
-          The Joy of React
+        <a target="_blank" rel="noopener noreferrer" href="">
+          TJR Practice
         </a>
-        , a comprehensive React.js course.
       </p>
-      <p>© 2022-present Joshua Comeau. All rights reserved.</p>
+      <p>© 2024-present.</p>
     </footer>
   );
 }
